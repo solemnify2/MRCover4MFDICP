@@ -1,0 +1,11 @@
+{
+  "Materials": [
+    {
+      "Name": "MR-Cockpit-Cover",
+      "Template": {
+        "File": "PBR",
+        "Material": "PINK"
+      }
+    }
+  ]
+}
