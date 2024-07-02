@@ -7,7 +7,7 @@ This is the MR cover for Falcon BMS's mixed reality. In VR, it allows passthroug
 
 1. **Download latest files**  Replace them into C:\Falcon BMS 4.37\Data\TerrData\Objects\Models\3840
 
-![com oculus vrshell-20240702-201047](https://github.com/solemnify2/MRCover4MFDICP/assets/50224420/b3a6650b-6a46-4f97-a952-542771d2e38f)
+![com oculus vrshell-20240702-203019](https://github.com/solemnify2/MRCover4MFDICP/assets/50224420/8fdc9ac1-9385-4638-a246-69de4fad62be)
 
 ![MFD and ICP only](https://github.com/solemnify2/MRCover4MFDICP/assets/50224420/c1efa160-e04e-4798-862b-a88e5b14724d)
 
