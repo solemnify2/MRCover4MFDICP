@@ -1,4 +1,4 @@
-# MRCover4MFDICP
+# MRCover for only the MFD and the ICP
 
 ## Overview
 This is the MR cover for Falcon BMS's mixed reality. In VR, it allows passthrough for the button areas of the MFD and the ICP. The screen parts of the MFD and other instruments, including the DED, display the in-game visuals normally.
